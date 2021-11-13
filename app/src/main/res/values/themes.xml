@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.LittleBigNotepad" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/cookies_and_cream</item>
+        <item name="colorPrimaryDark">@color/sage</item>
+        <item name="colorAccent">@color/dark_sea_green</item>
+        <!-- Customize your theme here. -->
+
+
+    </style>
+</resources>
