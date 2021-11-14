@@ -1,13 +1,14 @@
-package com.example.littlebignotepad
+package com.littleBig.littlebignotepad
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.ViewModelProviders
-import com.example.littlebignotepad.ViewModels.MainPageViewModel
-import com.example.littlebignotepad.dependencyinjection.LittleBigNotePad2
-import com.example.littlebignotepad.utils.DataCallback
-import com.example.littlebignotepad.utils.Helper
+import com.example.littlebignotepad.R
+import com.littleBig.littlebignotepad.ViewModels.MainPageViewModel
+import com.littleBig.littlebignotepad.dependencyinjection.LittleBigNotePad2
+import com.littleBig.littlebignotepad.utils.DataCallback
+import com.littleBig.littlebignotepad.utils.Helper
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.activity_main_top_panel.view.*
 import javax.inject.Inject

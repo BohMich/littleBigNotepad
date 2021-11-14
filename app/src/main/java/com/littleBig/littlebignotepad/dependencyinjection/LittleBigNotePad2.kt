@@ -1,8 +1,7 @@
-package com.example.littlebignotepad.dependencyinjection
+package com.littleBig.littlebignotepad.dependencyinjection
 
 import android.content.Context
 import androidx.multidex.MultiDexApplication
-import com.example.littlebignotepad.database.AppDatabase
 
 class LittleBigNotePad2 : MultiDexApplication() {
 

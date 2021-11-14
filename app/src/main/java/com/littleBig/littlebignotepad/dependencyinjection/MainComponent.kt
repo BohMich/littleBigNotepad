@@ -1,10 +1,10 @@
-package com.example.littlebignotepad.dependencyinjection
+package com.littleBig.littlebignotepad.dependencyinjection
 
-import com.example.littlebignotepad.MainActivity
-import com.example.littlebignotepad.ViewModels.MainPageViewModel
-import com.example.littlebignotepad.database.AppDatabase
-import com.example.littlebignotepad.database.NoteDao
-import com.example.littlebignotepad.utils.DataReader
+import com.littleBig.littlebignotepad.MainActivity
+import com.littleBig.littlebignotepad.ViewModels.MainPageViewModel
+import com.littleBig.littlebignotepad.database.AppDatabase
+import com.littleBig.littlebignotepad.database.NoteDao
+import com.littleBig.littlebignotepad.utils.DataReader
 import dagger.Component
 import javax.inject.Singleton
 

@@ -1,4 +1,4 @@
-package com.example.littlebignotepad.dependencyinjection
+package com.littleBig.littlebignotepad.dependencyinjection
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

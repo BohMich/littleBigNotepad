@@ -1,6 +1,6 @@
-package com.example.littlebignotepad.utils
+package com.littleBig.littlebignotepad.utils
 
-import com.example.littlebignotepad.database.NoteDao
+import com.littleBig.littlebignotepad.database.NoteDao
 import javax.inject.Inject
 import javax.inject.Singleton
 

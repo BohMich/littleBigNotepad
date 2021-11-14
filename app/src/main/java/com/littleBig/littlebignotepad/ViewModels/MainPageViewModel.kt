@@ -1,9 +1,9 @@
-package com.example.littlebignotepad.ViewModels
+package com.littleBig.littlebignotepad.ViewModels
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.littlebignotepad.utils.DataCallback
-import com.example.littlebignotepad.utils.DataReader
+import com.littleBig.littlebignotepad.utils.DataCallback
+import com.littleBig.littlebignotepad.utils.DataReader
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 

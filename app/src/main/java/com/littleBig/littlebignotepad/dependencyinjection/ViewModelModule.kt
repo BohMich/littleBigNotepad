@@ -1,8 +1,8 @@
-package com.example.littlebignotepad.dependencyinjection
+package com.littleBig.littlebignotepad.dependencyinjection
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.example.littlebignotepad.ViewModels.MainPageViewModel
+import com.littleBig.littlebignotepad.ViewModels.MainPageViewModel
 import dagger.Binds
 import dagger.Module
 import dagger.multibindings.IntoMap

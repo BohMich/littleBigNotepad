@@ -1,4 +1,4 @@
-package com.example.littlebignotepad.database
+package com.littleBig.littlebignotepad.database
 
 import android.content.Context
 import androidx.room.Room

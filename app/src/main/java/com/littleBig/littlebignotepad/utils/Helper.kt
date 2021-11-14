@@ -1,4 +1,4 @@
-package com.example.littlebignotepad.utils
+package com.littleBig.littlebignotepad.utils
 
 object Helper {
      fun booleanToInt(b: Boolean): Int {

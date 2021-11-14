@@ -1,4 +1,4 @@
-package com.example.littlebignotepad.dependencyinjection
+package com.littleBig.littlebignotepad.dependencyinjection
 
 import android.content.Context
 import dagger.Module
